@@ -1,0 +1,86 @@
+{
+    "Btn": {
+        "screenshot": ".images\\btn-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn"
+    },
+    "Btnprimary": {
+        "screenshot": ".images\\btnprimary-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-primary"
+    },
+    "Firstname": {
+        "screenshot": ".images\\firstname-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "firstname"
+    },
+    "Lastname": {
+        "screenshot": ".images\\lastname-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "lastname"
+    },
+    "Logout": {
+        "screenshot": ".images\\logout-screenshot.png",
+        "source": "https://robotsparebinindustries.com/?firstname=john&lastname=smith&salesresult=123#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "logout"
+    },
+    "Password": {
+        "screenshot": ".images\\password-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "password"
+    },
+    "SalesResultTable": {
+        "screenshot": ".images\\salesresulttable-screenshot.png",
+        "source": "https://robotsparebinindustries.com/?firstname=jhon&lastname=smith&salesresult=123#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#sales-results"
+    },
+    "SalesSummary": {
+        "screenshot": ".images\\salessummary-screenshot.png",
+        "source": "https://robotsparebinindustries.com/?firstname=john&lastname=smith&salesresult=123#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".sales-summary"
+    },
+    "Salesform": {
+        "screenshot": ".images\\salesform-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "sales-form"
+    },
+    "Salesresult": {
+        "screenshot": ".images\\salesresult-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "salesresult"
+    },
+    "Salestarget": {
+        "screenshot": ".images\\salestarget-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "salestarget"
+    },
+    "Username": {
+        "screenshot": ".images\\username-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "username"
+    }
+}
